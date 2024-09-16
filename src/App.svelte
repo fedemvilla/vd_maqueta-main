@@ -179,6 +179,15 @@
   </div>
 </div>
 
+<footer class="footer">
+  <p>Creado por Federico Villanueva</p>
+  <p>
+    <a href="https://www.linkedin.com/in/federico-mateo-villanueva-a52196279" target="_blank">LinkedIn</a> |
+    <a href="https://github.com/fedemvilla/vd_maqueta-main" target="_blank">GitHub</a>
+  </p>
+  <p>Materia: Visualización de Datos, Universidad Di Tella (Don Torcuato)</p>
+</footer>
+
 <link href="https://fonts.googleapis.com/css2?family=Lato:wght@300;400&family=Open+Sans:wght@300;400&display=swap" rel="stylesheet">
 
 <style>
@@ -225,5 +234,25 @@
     justify-content: center;
     align-items: center;
     margin-bottom: 30px;
+
+  .footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    background-color: #f8f8f8;
+    text-align: center;
+    padding: 10px;
+    font-size: 14px;
+  }
+
+  .footer a {
+    color: #0077b5;  /* Color para los enlaces */
+    text-decoration: none;
+    margin: 0 10px;
+  }
+
+  .footer a:hover {
+    text-decoration: underline;
+  }
   }
 </style>
