@@ -180,12 +180,12 @@
 </div>
 
 <footer class="footer">
-  <p>Creado por Federico Villanueva</p>
-  <p>
+  <p style= "font-size: 15px; margin-bottom: 5px ">Creado por Federico Villanueva</p>
+  <p style= "font-size: 15px; margin-bottom: 5px">
     <a href="https://www.linkedin.com/in/federico-mateo-villanueva-a52196279" target="_blank">LinkedIn</a> |
     <a href="https://github.com/fedemvilla/vd_maqueta-main" target="_blank">GitHub</a>
   </p>
-  <p>Materia: Visualización de Datos, Universidad Di Tella (Don Torcuato)</p>
+  <p style= "font-size: 15px; margin-bottom: 20px">Visualización de Datos, Universidad Di Tella</p>
 </footer>
 
 <link href="https://fonts.googleapis.com/css2?family=Lato:wght@300;400&family=Open+Sans:wght@300;400&display=swap" rel="stylesheet">
@@ -235,23 +235,20 @@
     align-items: center;
     margin-bottom: 30px;
   }
-  .footer{
-    position: fixed;
-    bottom: 0;
-    width: 100%;
-    background-color: #f8f8f8;
-    text-align: center;
-    padding: 10px;
-    font-size: 14px;
-  }
 
   .footer a {
     color: #0077b5;  /* Color para los enlaces */
     text-decoration: none;
-    margin: 0 10px;
+    margin: 0 3px;
+  }
+
+  .footer {
+    text-align: center;
+    color: gray;  /* Color gris clarito */
+    padding: 20px;
   }
 
   .footer a:hover {
-    text-decoration: underline;
+    color: gray;  /* Cambia a un gris más oscuro al pasar el ratón por encima */
   }
 </style>
