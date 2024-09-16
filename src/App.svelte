@@ -234,8 +234,8 @@
     justify-content: center;
     align-items: center;
     margin-bottom: 30px;
-
-  .footer {
+  }
+  .footer{
     position: fixed;
     bottom: 0;
     width: 100%;
@@ -253,6 +253,5 @@
 
   .footer a:hover {
     text-decoration: underline;
-  }
   }
 </style>
