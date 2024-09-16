@@ -103,7 +103,7 @@
 </div>
 
 <!-- Texto debajo de la diana -->
-<p style=" margin-top: 20px; margin-bottom: 40px; margin-right:50px; margin-left:50px">En la visualización, cada flecha representa el desempeño de un país en un año olímpico específico. La diana simboliza el objetivo máximo de 100 puntos, con las posiciones de las flechas mostrando cuán cerca estuvieron de alcanzar la perfección en cada edición de los Juegos.</p>
+<p style=" margin-top: 50px; margin-bottom: 50px; margin-right:50px; margin-left:50px">En la visualización, cada flecha representa el desempeño de un país en un año olímpico específico. La diana simboliza el objetivo máximo de 100 puntos, con las posiciones de las flechas mostrando cuán cerca estuvieron de alcanzar la perfección en cada edición de los Juegos.</p>
 
 <!-- Contenedor para la imagen y la tabla -->
 <div style="display: flex; justify-content: center; align-items: center; margin-top: 35px; margin-bottom: 80px;">
@@ -135,16 +135,18 @@
   </div>
 </div>
 
-<p style="margin-top: 50px; margin-bottom: 0px; font-size:30px;"><strong>Los ultimos años</strong></p>
+<p style="margin-top: 150px; margin-bottom: 0px; font-size:30px;"><strong> La historia de una Rivalidad Olímpica</strong></p>
 
-<p style="margin-top: 30px; margin-right:50px; margin-left:50px">Desde los Juegos Olímpicos de 2008 hasta 2024, Corea del Sur y Estados Unidos han sido los principales contendientes en tiro con arco. Estos países han dominado el medallero, con una rivalidad que se ha intensificado a lo largo de los años.</p>
+<p style="margin-top: 30px; margin-right:50px; margin-left:50px">Un recorrido completo por las medallas obtenidas por las dos naciones más exitosas en tiro con arco olímpico. Desde los primeros triunfos hasta su dominio en los Juegos Olímpicos recientes, destacando su competitividad desde los años 1972 hasta París 2024.</p>
 
 <!-- Contenedor para la visualización de Flourish -->
-<div class="fl_container" style="width: 80%; height: 550px; margin: 0 auto; margin-top: 50px; margin-botton: 100px; text-align: center;">
-  <div class="flourish-embed flourish-chart" data-src="visualisation/19287848" style="width: 100%; height: 100%;">
-    <script src="https://public.flourish.studio/resources/embed.js"></script>
-  </div>
+<div class="fl_container" style="width: 80%; height: 450px; margin: 0 auto; margin-top: 50px; margin-botton: 100px; text-align: center;">
+  <div class="flourish-embed flourish-pictogram" data-src="visualisation/19428260"><script src="https://public.flourish.studio/resources/embed.js"></script><noscript><img src="https://public.flourish.studio/visualisation/19428260/thumbnail" width="100%" alt="pictogram visualization" /></noscript></div>
 </div>
+
+<p style="margin-top: 50px; margin-bottom: 0px; font-size:30px;"><strong>En los últimos años</strong></p>
+
+<p style="margin-top: 30px; margin-right:50px; margin-left:50px">Desde los Juegos Olímpicos de 2008 hasta 2024, Corea del Sur y Estados Unidos han sido los principales contendientes en tiro con arco. Estos países han dominado el medallero, con una rivalidad que se ha intensificado a lo largo de los años.</p>
 
 <!-- Descripción debajo de la tabla -->
 <div style="margin-top: 60px; margin-right:50px; margin-left:50px">
