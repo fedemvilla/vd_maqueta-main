@@ -48,13 +48,17 @@
   });
 </script>
 
+<link href="https://fonts.googleapis.com/css2?family=Lato:wght@300;400&family=Open+Sans:wght@300;400&display=swap" rel="stylesheet">
+
 <!-- Imagen SVG centrada arriba del título -->
 <div style="text-align: center; margin-bottom: 40px; margin-top: 35px;">
   <img src="./images/aro.png" alt="aro" style="width: 200px; height: auto;" />
 </div>
 
 <!-- Título -->
-<h1 style="text-align: center; margin-bottom: 20px; margin-right:50px; margin-left:50px">"Corea vs EEUU: Duelo en el Tiro con Arco Olímpico (2008-2024)"</h1>
+<h1 style="text-align: center; margin-bottom: 30px;margin-top: 30px; margin-right:50px; margin-left:50px; ">Corea dio en el blanco</h1>
+
+<p style="text-align: center; margin-top: 20px; margin-bottom: 40px; font-size:30px;"><strong>El equipo coreano en tiro con arco acentúa su predominio</strong></p>
 
 <!-- Contenedor centrado -->
 <div style="display: flex; justify-content: center; margin-bottom: 15px; align-items: center; position: relative;">
@@ -150,36 +154,41 @@
 
 <!-- Descripción debajo de la tabla -->
 <div style="margin-top: 60px; margin-right:50px; margin-left:50px">
-  <p style="margin-bottom: 5px"><strong>2008: El Inicio de la Dominación de Corea del Sur</strong></p>
-  <p style="margin-bottom: 20px">En los Juegos Olímpicos de 2008 en Beijing, Corea del Sur reafirmó su supremacía en tiro con arco, alcanzando 88 puntos y asegurando varias medallas de oro. Estados Unidos, aunque competitivo, quedó rezagado con 75 puntos, comenzando a notar la brecha entre ellos y los surcoreanos.</p>
-  <div class="fl_container" style="width: 80%; height: 300px; margin: 0 auto; margin-top: 30px; margin-botton: 100px; text-align: center;">
+  <p style="margin-bottom: 0px"><strong>2008: El Inicio de la Dominación de Corea del Sur</strong></p>
+  <div class="fl_container" style="width: 80%; height: 250px; margin-left: 20px; margin-top: 10px; margin-botton: 100px; text-align: center;">
     <iframe src='https://flo.uri.sh/visualisation/19291346/embed' title='Interactive or visual content' class='flourish-embed-iframe' frameborder='0' scrolling='no' style='width:100%;height:250px;' sandbox='allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation'></iframe><div style='width:100%!;margin-top:4px!important;text-align:right!important;'><a class='flourish-credit' href='https://public.flourish.studio/visualisation/19291346/?utm_source=embed&utm_campaign=visualisation/19291346' target='_top' style='text-decoration:none!important'><img alt='Made with Flourish' src='https://public.flourish.studio/resources/made_with_flourish.svg' style='width:105px!important;height:16px!important;border:none!important;margin:0!important;'> </a></div>
   </div>
+  <p style="margin-bottom: 20px">En los Juegos Olímpicos de 2008 en Beijing, Corea del Sur reafirmó su supremacía en tiro con arco, asegurando varias medallas de oro. Estados Unidos, aunque competitivo, comenzo a notar la brecha entre ellos y los surcoreanos.</p>
+
   
-  <p style="margin-top: 40px; margin-bottom: 5px"><strong>2012: La Rivalidad se Intensifica</strong></p>
-  <p style="margin-bottom: 20px">En Londres 2012, Corea del Sur mejoró su desempeño, alcanzando 93 puntos, mientras que Estados Unidos también subió su nivel, logrando 82 puntos. Este fue un año en el que la rivalidad se intensificó, con ambos países luchando por cada medalla.</p>
-  <div class="fl_container" style="width: 80%; height: 300px; margin: 0 auto; margin-top: 30px; margin-botton: 100px; text-align: center;">
+  <p style="margin-top: 50px; margin-bottom: 0px"><strong>2012: La Rivalidad se Intensifica</strong></p>
+  <div class="fl_container" style="width: 80%; height: 250px; margin-left: 20px; margin-top: 10px; margin-botton: 100px;">
     <iframe src='https://flo.uri.sh/visualisation/19419911/embed' title='Interactive or visual content' class='flourish-embed-iframe' frameborder='0' scrolling='no' style='width:100%;height:250px;' sandbox='allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation'></iframe><div style='width:100%!;margin-top:4px!important;text-align:right!important;'><a class='flourish-credit' href='https://public.flourish.studio/visualisation/19419911/?utm_source=embed&utm_campaign=visualisation/19419911' target='_top' style='text-decoration:none!important'><img alt='Made with Flourish' src='https://public.flourish.studio/resources/made_with_flourish.svg' style='width:105px!important;height:16px!important;border:none!important;margin:0!important;'> </a></div>
   </div>
+  <p style="margin-bottom: 20px">En Londres 2012, Corea del Sur mejoró su desempeño, mientras que Estados Unidos también subió su nivel. Este fue un año en el que la rivalidad se intensificó, con ambos países luchando por cada medalla.</p>
 
-  <p style="margin-top: 50px; margin-bottom: 5px"><strong>2016: La Consistencia de Corea del Sur</strong></p>
-  <p style="margin-bottom: 20px">Durante los Juegos Olímpicos de 2016 en Río, Corea del Sur casi alcanzó la perfección con 95 puntos, consolidando su dominio. Estados Unidos, a pesar de mantener un buen nivel, no pudo seguir el ritmo y terminó con 78 puntos. Este año reafirmó a Corea del Sur como la potencia indiscutible en tiro con arco.</p>
-  <div class="fl_container" style="width: 80%; height: 300px; margin: 0 auto; margin-top: 30px; margin-botton: 100px; text-align: center;">
+
+  <p style="margin-top: 50px; margin-bottom: 0px"><strong>2016: La Consistencia de Corea del Sur</strong></p>
+  <div class="fl_container" style="width: 80%; height: 250px; margin-left: 20px; margin-top: 10px; margin-botton: 100px; text-align: center;">
     <iframe src='https://flo.uri.sh/visualisation/19420439/embed' title='Interactive or visual content' class='flourish-embed-iframe' frameborder='0' scrolling='no' style='width:100%;height:250px;' sandbox='allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation'></iframe><div style='width:100%!;margin-top:4px!important;text-align:right!important;'><a class='flourish-credit' href='https://public.flourish.studio/visualisation/19420439/?utm_source=embed&utm_campaign=visualisation/19420439' target='_top' style='text-decoration:none!important'><img alt='Made with Flourish' src='https://public.flourish.studio/resources/made_with_flourish.svg' style='width:105px!important;height:16px!important;border:none!important;margin:0!important;'> </a></div>
   </div>
+  <p style="margin-bottom: 20px">Durante los Juegos Olímpicos de 2016 en Río, Corea del Sur casi alcanzó la perfección, consolidando su dominio. Estados Unidos, a pesar de mantener un buen nivel, no pudo seguir el ritmo. Este año reafirmó a Corea del Sur como la potencia indiscutible en tiro con arco.</p>
 
-  <p style="margin-top: 50px; margin-bottom: 5px"><strong>2020: La Diferencia se Amplía</strong></p>
-  <p style="margin-bottom: 20px">En Tokio 2020, Corea del Sur continuó su racha de excelencia con 97 puntos, acercándose aún más al puntaje perfecto. Estados Unidos, por otro lado, vio una caída en su desempeño, alcanzando solo 70 puntos. La brecha entre ambos países se hizo más evidente, reflejando la consistencia y precisión de los arqueros surcoreanos.</p>
-  <div class="fl_container" style="width: 80%; height: 300px; margin: 0 auto; margin-top: 30px; margin-botton: 100px; text-align: center;">
+
+  <p style="margin-top: 50px; margin-bottom: 0px"><strong>2020: La Diferencia se Amplía</strong></p>
+  <div class="fl_container" style="width: 80%; height: 250px; margin-left: 20px; margin-top: 10px; margin-botton: 100px; text-align: center;">
     <iframe src='https://flo.uri.sh/visualisation/19420583/embed' title='Interactive or visual content' class='flourish-embed-iframe' frameborder='0' scrolling='no' style='width:100%;height:250px;' sandbox='allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation'></iframe><div style='width:100%!;margin-top:4px!important;text-align:right!important;'><a class='flourish-credit' href='https://public.flourish.studio/visualisation/19420583/?utm_source=embed&utm_campaign=visualisation/19420583' target='_top' style='text-decoration:none!important'><img alt='Made with Flourish' src='https://public.flourish.studio/resources/made_with_flourish.svg' style='width:105px!important;height:16px!important;border:none!important;margin:0!important;'> </a></div>
   </div>
+  <p style="margin-bottom: 20px">En Tokio 2020, Corea del Sur continuó su racha de excelencia, acercándose aún más al puntaje perfecto. Estados Unidos, por otro lado, vio una caída en su desempeño. La brecha entre ambos países se hizo más evidente, reflejando la consistencia y precisión de los arqueros surcoreanos.</p>
 
-  <p style="margin-top: 50px; margin-bottom: 5px"><strong>2024: La Perfección Alcanzada</strong></p>
-  <p style="margin-bottom: 20px">En los Juegos Olímpicos de París 2024, Corea del Sur finalmente alcanzó casi la perfección con 99 puntos, estableciendo un récord en la historia del tiro con arco. Estados Unidos, a pesar de su esfuerzo, continuó su declive con 67 puntos. Este año marcó el clímax de la rivalidad, con Corea del Sur consolidando su estatus como la nación más dominante en la historia del tiro con arco olímpico.</p>
-  <div class="fl_container" style="width: 80%; height: 300px; margin: 0 auto; margin-top: 30px; margin-botton: 100px; text-align: center;">
+
+  <p style="margin-top: 50px; margin-bottom: 0px"><strong>2024: La Perfección Alcanzada</strong></p>
+  <div class="fl_container" style="width: 80%; height: 250px; margin-left: 20px; margin-top: 10px; margin-botton: 100px; text-align: center;">
     <iframe src='https://flo.uri.sh/visualisation/19420633/embed' title='Interactive or visual content' class='flourish-embed-iframe' frameborder='0' scrolling='no' style='width:100%;height:250px;' sandbox='allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation'></iframe><div style='width:100%!;margin-top:4px!important;text-align:right!important;'><a class='flourish-credit' href='https://public.flourish.studio/visualisation/19420633/?utm_source=embed&utm_campaign=visualisation/19420633' target='_top' style='text-decoration:none!important'><img alt='Made with Flourish' src='https://public.flourish.studio/resources/made_with_flourish.svg' style='width:105px!important;height:16px!important;border:none!important;margin:0!important;'> </a></div>
   </div>
+  <p style="margin-bottom: 50px">En los Juegos Olímpicos de París 2024, Corea del Sur finalmente alcanzó casi la perfección, estableciendo un récord en la historia del tiro con arco. Estados Unidos, a pesar de su esfuerzo, continuó su declive. Este año marcó el clímax de la rivalidad, con Corea del Sur consolidando su estatus como la nación más dominante en la historia del tiro con arco olímpico.</p>
 </div>
+
 
 <footer class="footer">
   <p style= "font-size: 15px; margin-bottom: 5px ">Creado por Federico Villanueva</p>
@@ -190,14 +199,12 @@
   <p style= "font-size: 15px; margin-bottom: 20px">Visualización de Datos, Universidad Di Tella</p>
 </footer>
 
-<link href="https://fonts.googleapis.com/css2?family=Lato:wght@300;400&family=Open+Sans:wght@300;400&display=swap" rel="stylesheet">
-
 <style>
   /* Título - Futura Bold o una alternativa como Roboto Condensed */
   h1 {
     font-family: 'Futura', 'Roboto Condensed', sans-serif;
     font-weight: bold;
-    font-size: 36px;
+    font-size: 45px;
     text-align: center;
     margin-bottom: 50px;
     margin-right: 50px;
